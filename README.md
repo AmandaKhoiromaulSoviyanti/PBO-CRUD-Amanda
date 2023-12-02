@@ -1,18 +1,16 @@
-# Shabrinazahra_TugasPBO_CRUD-OOP
-
+# Amanda Khoiroma'ul Soviyanti_Tugas PBO CRUD-OOP
 <h1>1. Tampilan Awal</h1>
 
-![Tampilan Awal](https://github.com/shbri08/Shabrinazahra_TugasPBO_CRUD-OOP/assets/117991094/ab9a1e70-2046-4646-967b-d191fc67f841)
+![tampilan awal](https://github.com/AmandaKhoiromaulSoviyanti/PBO-CRUD-Amanda/assets/124539993/51544b94-15b9-4c74-8189-f1d7bb4969b4)
 
 <h1>2. Tampilan Add Student</h1>
 
-![Tampilan Add Student](https://github.com/shbri08/Shabrinazahra_TugasPBO_CRUD-OOP/assets/117991094/01acb0c3-a604-4ef7-9501-65aa29bddc80)
+![tampilan add data](https://github.com/AmandaKhoiromaulSoviyanti/PBO-CRUD-Amanda/assets/124539993/a940baaf-ca57-471d-acae-c336303d8717)
 
-<h1>3. Tampilan Data Student</h1>
+<h1>3. Tampilan Data Student setelah diisi</h1>
 
-![Tampilan Data Student](https://github.com/shbri08/Shabrinazahra_TugasPBO_CRUD-OOP/assets/117991094/4926d560-3535-4718-b1de-4accc572ac20)
+![tampilan setelah diisi](https://github.com/AmandaKhoiromaulSoviyanti/PBO-CRUD-Amanda/assets/124539993/5b902c2d-0e50-4e58-907d-23e8c436b53c)
 
 <h1>Tampilan Edit dan Update Data Student</h1>
 
-![Tampilan edit dan Update Student](https://github.com/shbri08/Shabrinazahra_TugasPBO_CRUD-OOP/assets/117991094/c3520d34-07f2-4967-87a1-93bf9d0c570c)
-
+![tampilan edit data](https://github.com/AmandaKhoiromaulSoviyanti/PBO-CRUD-Amanda/assets/124539993/fb66db88-56ab-47ea-88cb-37c0d744411f)
